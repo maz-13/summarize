@@ -1,2 +1,2 @@
 # summarize
-This program scrapes and summarizes articles from the internet
+A program that uses Natural Language Processing (NLP) to scrape and summarize articles from the internet
